@@ -1,4 +1,4 @@
-## The source code of this website (HTML, CSS, JavaScript, etc.) is licensed under the MIT License
+### The source code of this website (HTML, CSS, JavaScript, etc.) is licensed under the MIT License
 
 Copyright (c) 2024 foss-plus-fedora
 
