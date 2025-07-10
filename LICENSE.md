@@ -1,4 +1,4 @@
-The source code of this website (HTML, CSS, JavaScript, etc.) is licensed under the MIT License
+## The source code of this website (HTML, CSS, JavaScript, etc.) is licensed under the MIT License
 
 Copyright (c) 2024 foss-plus-fedora
 
@@ -20,4 +20,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The **text, images, and other creative content** on this website are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+### The **text, images, and other creative content** on this website are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
